@@ -36,10 +36,3 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=kubernetes)&nbsp;
-
-### Stats
-<p align="left">
-<a href="https://github.com/I3r1h0n">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I3r1h0n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</a>
-</p>
